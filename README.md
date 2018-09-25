@@ -124,6 +124,6 @@ c = n - 5a \\ {} \\
 - สรุปจะได้ a = 1 , b = 0 , c = 1; ทีนี้เราก็เอา a,b,c ที่ได้มาไปยัดใน matrix
 
 ![img](img/eul5.png)
+![img](img/eul6.png)
 
 ### 3. มี Matrix ละไงต่อ มาดู Pattern ช่วง Matrix กัน
-![img](img/eul7.png)

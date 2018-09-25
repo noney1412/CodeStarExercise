@@ -2,7 +2,7 @@
 
 \textit {  ทวนนะคือเราค่อย ๆ solve }\\ {} \\
 \textit {จาก n = 6 ไป  }\\ {} \\
-\textit { subset {\{ 5 1 } \} สู่ }\\ {} \\
+\textit {  {\{ 5 1 } \} สู่ }\\ {} \\
 
 M_1 =\begin{bmatrix}
 1 &0  &1 
