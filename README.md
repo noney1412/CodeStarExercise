@@ -17,10 +17,11 @@
 -   ใช้ Recursion และ Memoization 20%
 -   ใช้ Divide & Conquer และ Matrix 40%
 
+**ข้อนี้มูลค่ารายได้ 40K ต่อเดือนจากเพจต้นทาง [CodeStar FB](https://www.facebook.com/codestar.work/photos/a.355085531361402/896522623884354/?type=3&theater)
 ### How to do ?
 
--   ในนี้จะใช้ Matrix + Recursion + Divide & Conquer ส่วน memoize เอาโค้ดไปแก้เองเลย 55
--   Math Knowledge ก็มี Matrix & เรียงสับเปลี่ยน & factorial
+-   ในนี้จะใช้ Matrix + Recursion + Divide & Conquer ส่วน memoize เอาโค้ดไปแก้เองเลยฮะ 55 เขียนไม่เป็น ไม่เก่งงะ
+-   ต่อมาก็ Math Knowledge ก็มี Matrix & เรียงสับเปลี่ยน & factorial
 
 ### สมการของ "เรียงสับเปลี่ยน"
 
