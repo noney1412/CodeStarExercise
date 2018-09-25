@@ -127,3 +127,8 @@ c = n - 5a \\ {} \\
 ![img](img/eul6.png)
 
 ### 3. มี Matrix ละไงต่อ มาดู Pattern ช่วง Matrix กัน
+
+![img](img/eul7.png)
+
+
+### 4. ต่อมาก็ Divide & Conquer ต่อจากด้านบนที่เรามีครึ่งแรกละ 
